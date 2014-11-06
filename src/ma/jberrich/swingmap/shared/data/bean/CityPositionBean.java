@@ -1,4 +1,4 @@
-package ma.ensao.swingmap.shared.data.bean;
+package ma.jberrich.swingmap.shared.data.bean;
 
 import java.io.Serializable;
 

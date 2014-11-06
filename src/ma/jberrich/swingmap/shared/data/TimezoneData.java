@@ -1,4 +1,4 @@
-package ma.ensao.swingmap.shared.data;
+package ma.jberrich.swingmap.shared.data;
 
 import java.util.Date;
 
